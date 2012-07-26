@@ -1,0 +1,1 @@
+INSERT INTO `sym_fields_date` (`pre_populate`, `field_id`) VALUES ('yes', '2');

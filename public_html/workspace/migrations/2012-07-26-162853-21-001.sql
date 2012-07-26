@@ -1,0 +1,1 @@
+INSERT INTO `sym_fields` (`label`, `element_name`, `parent_section`, `location`, `required`, `type`, `show_column`, `sortorder`) VALUES ('Test Date', 'test-date', '1', 'sidebar', 'no', 'date', 'yes', '1');

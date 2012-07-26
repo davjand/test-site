@@ -1,0 +1,1 @@
+DELETE FROM `sym_fields_input` WHERE `field_id` = 1 LIMIT 1;

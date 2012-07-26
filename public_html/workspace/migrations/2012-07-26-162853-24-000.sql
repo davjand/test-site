@@ -1,0 +1,1 @@
+DELETE FROM `sym_fields_date` WHERE `field_id` = 2 LIMIT 1;

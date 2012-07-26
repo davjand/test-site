@@ -1,0 +1,1 @@
+INSERT INTO `sym_sections` (`name`, `navigation_group`, `max_entries`, `handle`, `sortorder`) VALUES ('Test Section 1', 'Content', '0', 'test-section-1', '1');
