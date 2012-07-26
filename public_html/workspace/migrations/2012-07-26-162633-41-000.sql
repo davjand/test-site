@@ -1,0 +1,1 @@
+INSERT INTO `sym_extensions` (`name`, `status`, `version`) VALUES ('less_compiler', 'enabled', '1.1');

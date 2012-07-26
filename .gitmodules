@@ -31,3 +31,6 @@
 [submodule "public_html/extensions/limit_section_entries"]
 	path = public_html/extensions/limit_section_entries
 	url = git@github.com:vlad-ghita/limit_section_entries.git
+[submodule "public_html/extensions/less_compiler"]
+	path = public_html/extensions/less_compiler
+	url = git@github.com:nils-werner/less_compiler.git
